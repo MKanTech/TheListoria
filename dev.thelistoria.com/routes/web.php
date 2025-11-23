@@ -44,17 +44,27 @@ Route::middleware(['auth'])->group(function () {
 
     // Liste detay sayfasını göster (Listenin ID'si ile)
     Route::get('/lists/{list}', [PListController::class, 'show'])->name('lists.show');
+    
 
-    // Listenin içine yeni öğe ekleme işlemi
-    Route::post('/lists/{list}/items', [PListController::class, 'storeItem'])->name('lists.items.store');
-    // Listeler Rotaları (Sadece Giriş Yapanlar İçin)
-Route::middleware(['auth'])->group(function () {
-    // ... mevcut rotalar ...
+    Route::get('/lists/{list}/edit', [PListController::class, 'edit'])->name('lists.edit'); // Düzenleme formunu göster
+    
+    Route::put('/lists/{list}', [PListController::class, 'update'])->name('lists.update'); // Formdan gelen veriyi güncelle
+    
+    // Listeyi silme işlemi
+    Route::delete('/lists/{list}', [PListController::class, 'destroy'])->name('lists.destroy'); // Liste silme
+    
+    // ... listse ögesini düzenleme
+    Route::put('/lists/{list}/items/{item}', [PListController::class, 'updateItem'])->name('list_items.update');
 
     // Listenin içine yeni öğe ekleme işlemi
     Route::post('/lists/{list}/items', [PListController::class, 'storeItem'])->name('lists.items.store');
 
     // Öğenin tamamlama durumunu değiştirme işlemi (YENİ)
     Route::post('/lists/{list}/items/{item}/toggle', [PListController::class, 'toggleItem'])->name('lists.items.toggle');
-});
+
+    
+
+    // Liste öğesini silme işlemi
+    Route::delete('/lists/{list}/items/{item}', [PListController::class, 'destroyItem'])->name('lists.items.destroy');
+
 });

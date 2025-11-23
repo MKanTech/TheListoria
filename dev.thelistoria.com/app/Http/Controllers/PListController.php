@@ -37,18 +37,23 @@ class PListController extends Controller
      */
     public function store(Request $request): RedirectResponse
     {
-        $request->validate([
-            'title' => 'required|string|max:255',
-            'description' => 'nullable|string',
-        ]);
+    // KESINLIKLE DIKKAT EDIN: Bu fonksiyonun tamamını değiştirin.
+    $validated = $request->validate([
+        'title' => 'required|string|max:255',
+        'description' => 'nullable|string|max:1000',
+        'list_type' => 'required|string|max:50',
+        'is_public' => 'sometimes|accepted',
+    ]);
 
-        Auth::user()->lists()->create([
-            'title' => $request->title,
-            'description' => $request->description,
-            'is_public' => $request->has('is_public'), // Checkbox işaretliyse 1, değilse 0 olur
-        ]);
+    // Formdan is_public gelmezse (checkbox işaretlenmediyse) false olarak ata.
+    $validated['is_public'] = $request->has('is_public'); 
 
-        return redirect()->route('lists.index')->with('success', 'Liste başarıyla oluşturuldu!');
+    // $validated dizisindeki değerler:
+    // is_public=true (işaretliyse) veya is_public=false (işaretli değilse) olur.
+
+    $request->user()->lists()->create($validated);
+
+    return redirect(route('lists.index'))->with('success', 'Liste başarıyla oluşturuldu!');
     }
     /**
      * Belirli bir listenin detaylarını ve öğelerini gösterir.
@@ -80,11 +85,14 @@ class PListController extends Controller
         // Gelen verileri kontrol etme
         $request->validate([
             'content' => 'required|string|max:500', // Öğenin içeriği
+            'release_year' => 'nullable|integer|min:1900|max:2100',
         ]);
 
         // Yeni öğeyi oluştur ve listeye bağla
         $list->items()->create([
             'content' => $request->content,
+            'release_year' => $request->release_year,
+            // is_completed ve sort_order varsayılan olarak 0/NULL kalir
         ]);
 
         // Detay sayfasına geri yönlendir ve mesaj göster
@@ -107,5 +115,98 @@ class PListController extends Controller
 
         return redirect()->route('lists.show', $list);
     }
+    
+    /**
+     * Liste öğesini günceller.
+    */
+    public function updateItem(Request $request, PList $list, ListItem $item): RedirectResponse
+    {
+    // GÜVENLİK KONTROLÜ: Sadece listenin sahibi güncelleyebilir ve öğenin listeye ait olduğundan emin ol
+    if ($list->user_id !== Auth::id() || $item->list_id !== $list->id) {
+        abort(403);
+    }
 
+    // DOĞRULAMA (Validation)
+    $validated = $request->validate([
+        'content' => 'required|string|max:500', 
+        'release_year' => 'nullable|integer|min:1900|max:2100', // Yeni yıl kuralı
+    ]);
+
+    // Veritabanında güncelleme yap
+    $item->update($validated);
+
+    // Liste detay sayfasına başarı mesajıyla geri dön
+    return redirect()->route('lists.show', $list)->with('success', 'Liste öğesi başarıyla güncellendi!');
+    }
+    
+    
+    /**
+     * Listeyi siler.
+     */
+    public function destroy(PList $list): RedirectResponse
+    {
+        if ($list->user_id !== Auth::id()) {
+            abort(403);
+        }
+
+        // list_items tablosunda CASCADE ayarını yaptığımız için
+        // listeyi sildiğimizde, ona ait tüm öğeler de otomatik silinecektir.
+        $list->delete();
+
+        return redirect()->route('lists.index')->with('success', 'Liste başarıyla silindi!');
+    }
+
+    /**
+     * Liste öğesini siler.
+     */
+    public function destroyItem(PList $list, ListItem $item): RedirectResponse
+    {
+        if ($list->user_id !== Auth::id() || $item->list_id !== $list->id) {
+            abort(403);
+        }
+
+        $item->delete();
+
+        return redirect()->route('lists.show', $list)->with('success', 'Öğe başarıyla listeden silindi!');
+    }
+    /**
+    * Liste düzenleme formunu gösterir.
+    */
+    public function edit(PList $list): View
+    {
+    // GUVENLIK KONTROLU: Sadece listenin sahibi düzenleyebilir
+    if ($list->user_id !== Auth::id()) {
+        abort(403);
+    }
+
+    return view('lists.edit', compact('list'));
+    }
+
+    /**
+    * Düzenlenen liste verilerini günceller.
+    */
+    public function update(Request $request, PList $list): RedirectResponse
+    {
+    // GUVENLIK KONTROLU: Sadece listenin sahibi güncelleyebilir
+    if ($list->user_id !== Auth::id()) {
+        abort(403);
+    }
+
+    // DOĞRULAMA (Validation) - Yeni liste oluşturma ile aynı kurallar
+    $validated = $request->validate([
+        'title' => 'required|string|max:255',
+        'description' => 'nullable|string|max:1000',
+        'list_type' => 'required|string|max:50',
+        'is_public' => 'sometimes|accepted',
+    ]);
+
+    // is_public için varsayılan atama (checkbox işaretlenmediyse false yap)
+    $validated['is_public'] = $request->has('is_public');
+
+    // Veritabanında güncelleme yap
+    $list->update($validated);
+
+    // Liste detay sayfasına başarı mesajıyla geri dön
+    return redirect()->route('lists.show', $list)->with('success', 'Liste başarıyla güncellendi!');
+    }
 }

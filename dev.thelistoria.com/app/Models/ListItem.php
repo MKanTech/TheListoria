@@ -17,6 +17,8 @@ class ListItem extends Model
     protected $fillable = [
         'list_id',
         'content',
+        'item_type',
+        'release_year',
         'is_completed',
         'sort_order',
     ];

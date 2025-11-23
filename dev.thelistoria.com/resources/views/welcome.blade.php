@@ -13,15 +13,24 @@
 
     <div class="nav">
         @auth
-            <span>Hoş Geldiniz, {{ Auth::user()->name }}!</span>
-            <form method="POST" action="/public/logout" style="display:inline;">
-                @csrf
-                <button type="submit">Çıkış Yap</button>
-            </form>
+        <div style="margin-top: 20px;">
+        <p>Hoş Geldiniz, **{{ Auth::user()->name }}!**</p>
+        
+        <a href="{{ route('lists.index') }}" style="display: inline-block; padding: 10px 15px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; margin-right: 15px;">
+            Listelerime Git
+        </a>
+        
+        <form method="POST" action="/public/logout" style="display:inline;">
+            @csrf
+            <button type="submit" style="padding: 10px 15px; background-color: #dc3545; color: white; border: none; border-radius: 5px; cursor: pointer;">
+                Çıkış Yap
+            </button>
+        </form>
+        </div>
         @else
-            <a href="/public/login">Giriş Yap</a> | 
-            <a href="/public/register">Kayıt Ol</a>
-        @endauth
+        <a href="{{ route('login') }}">Giriş Yap</a>
+        <a href="{{ route('register') }}" style="margin-left: 10px;">Kayıt Ol</a>
+    @endauth
     </div>
 
     <div class="content">

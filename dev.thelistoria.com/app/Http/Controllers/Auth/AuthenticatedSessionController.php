@@ -32,7 +32,7 @@ class AuthenticatedSessionController extends Controller
             $request->session()->regenerate();
 
             // Başarılı giriş sonrası ana sayfaya yönlendir
-            return redirect()->intended(route('home', absolute: false));
+            return redirect()->intended(route('home', [], false));
         }
 
         return back()->withErrors([

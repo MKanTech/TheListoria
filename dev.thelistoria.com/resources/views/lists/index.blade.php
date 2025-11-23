@@ -31,17 +31,27 @@
                     <tr>
                         <th>Başlık</th>
                         <th>Açıklama</th>
+                        <th>Tür</th>
                         <th>Durum</th>
                         <th>Oluşturma Tarihi</th>
-                    </tr>
+                        <th>Eylemler</th> </tr>
                 </thead>
                 <tbody>
                     @foreach($lists as $list)
                         <tr>
                             <td><a href="{{ route('lists.show', $list) }}">{{ $list->title }}</a></td>
                             <td>{{ $list->description ?? 'Yok' }}</td>
+                            <td>{{ $list->list_type }}</td>
                             <td>{{ $list->is_public ? 'Herkese Açık' : 'Gizli' }}</td>
                             <td>{{ $list->created_at->format('d/m/Y') }}</td>
+                            
+                            <td>
+                                <form method="POST" action="{{ route('lists.destroy', $list) }}" style="display:inline;" onsubmit="return confirm('Bu listeyi silmek istediğinizden emin misiniz?');">
+                                    @csrf
+                                    @method('DELETE')
+                                    <button type="submit" style="color: red;">Sil</button>
+                                </form>
+                            </td>
                         </tr>
                     @endforeach
                 </tbody>

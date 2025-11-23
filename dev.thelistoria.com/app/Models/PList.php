@@ -20,6 +20,7 @@ class PList extends Model
         'user_id',
         'title',
         'description',
+        'list_type',
         'is_public',
     ];
 
