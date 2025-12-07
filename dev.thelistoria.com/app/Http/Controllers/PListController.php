@@ -148,9 +148,11 @@ class PListController extends Controller
         if ($list->user_id !== Auth::id()) {
             abort(403);
         }
+        
+        if ($list->is_fixed) {
+        return redirect()->route('lists.index')->with('error', 'Bu sabit bir listedir ve silinemez!');
+        }
 
-        // list_items tablosunda CASCADE ayarını yaptığımız için
-        // listeyi sildiğimizde, ona ait tüm öğeler de otomatik silinecektir.
         $list->delete();
 
         return redirect()->route('lists.index')->with('success', 'Liste başarıyla silindi!');

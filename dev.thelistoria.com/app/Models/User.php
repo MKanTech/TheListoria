@@ -21,6 +21,7 @@ class User extends Authenticatable
      */
     protected $fillable = [
         'name',
+        'username',
         'email',
         'password',
     ];
@@ -55,4 +56,4 @@ class User extends Authenticatable
     {
         return $this->hasMany(PList::class);
     }
-} // Bu kapanış parantezi dosyanın en sonundadır.
+}

@@ -45,6 +45,13 @@
                         @method('DELETE')
                         <button type="submit" onclick="return confirm('Bu öğeyi silmek istediğinizden emin misiniz?');">Sil</button>
                     </form>
+                    <form action="{{ route('lists.items.toggle', ['list' => $list->id, 'item' => $item->id]) }}" method="POST" style="display:inline;">
+                        @csrf
+                        <button type="submit" 
+                                class="{{ $item->is_completed ? 'bg-green-500 hover:bg-green-600' : 'bg-gray-400 hover:bg-gray-500' }} text-white py-1 px-3 rounded text-sm">
+                            {{ $item->is_completed ? '✔ Tamamlandı' : 'Yapılacak' }}
+                        </button>
+                    </form>
                 </div>
 
                 <div id="edit-{{ $item->id }}" style="display: none; border: 1px solid #ddd; padding: 10px; margin-top: 5px;">

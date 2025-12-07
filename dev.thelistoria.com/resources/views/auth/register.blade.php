@@ -20,8 +20,18 @@
             @endif
 
             <div>
-                <label for="name">Adınız:</label><br>
-                <input id="name" type="text" name="name" required autofocus>
+                <label for="name">Adınız ve Soyadınız (Opsiyonel):</label><br>
+                <input id="name" type="text" name="name" autofocus>
+            </div>
+            <br>
+            
+            <div class="mt-4">
+                <label for="username">Kullanıcı Adı:</label><br>
+                <input id="username" class="block mt-1 w-full" type="text" name="username" value="{{ old('username') }}" required autofocus />
+
+                @error('username')
+                <span class="text-red-600">{{ $message }}</span>
+                @enderror
             </div>
             <br>
 

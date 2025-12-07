@@ -46,11 +46,14 @@
                             <td>{{ $list->created_at->format('d/m/Y') }}</td>
                             
                             <td>
-                                <form method="POST" action="{{ route('lists.destroy', $list) }}" style="display:inline;" onsubmit="return confirm('Bu listeyi silmek istediğinizden emin misiniz?');">
+                                @if (!$list->is_fixed)
+                                    <form method="POST" action="{{ route('lists.destroy', $list) }}" style="display:inline;" onsubmit="return confirm('Bu listeyi silmek istediğinizden emin misiniz?');">
                                     @csrf
                                     @method('DELETE')
                                     <button type="submit" style="color: red;">Sil</button>
-                                </form>
+                                    </form>
+                                    @else
+                                @endif
                             </td>
                         </tr>
                     @endforeach

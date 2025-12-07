@@ -13,8 +13,15 @@
 
     <div class="nav">
         @auth
-        <div style="margin-top: 20px;">
-        <p>Hoş Geldiniz, **{{ Auth::user()->name }}!**</p>
+        <div style="margin-top: 1px;">
+        <span>Hoş Geldiniz, **{{ Auth::user()->username }}!**</span>
+        
+        @auth
+        <a href="{{ route('items.create') }}" 
+           class="py-2 px-4 rounded bg-indigo-600 text-white hover:bg-indigo-700 transition duration-150 mr-2">
+            ➕ İçerik Ekle
+        </a>
+        @endauth
         
         <a href="{{ route('lists.index') }}" style="display: inline-block; padding: 10px 15px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; margin-right: 15px;">
             Listelerime Git

@@ -22,6 +22,7 @@ class PList extends Model
         'description',
         'list_type',
         'is_public',
+        'is_fixed',
     ];
 
     /**

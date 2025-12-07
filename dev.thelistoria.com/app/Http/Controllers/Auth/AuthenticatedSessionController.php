@@ -24,19 +24,30 @@ class AuthenticatedSessionController extends Controller
     public function store(Request $request): RedirectResponse
     {
         $request->validate([
-            'email' => ['required', 'string', 'email'],
+            'email' => ['required', 'string'],
             'password' => ['required', 'string'],
         ]);
-
-        if (Auth::attempt($request->only('email', 'password'), $request->boolean('remember'))) {
-            $request->session()->regenerate();
-
+        
+        $login_type = filter_var($request->input('email'), FILTER_VALIDATE_EMAIL)
+            ? 'email' 
+            : 'username';
+        
+        $credentials = [
+            $login_type => $request->input('email'),
+            'password' => $request->input('password'),
+        ];
+        
+        $remember = $request->boolean('remember'); 
+        
+        if (Auth::attempt($credentials, $remember)) {
+        $request->session()->regenerate();
+        
             // Başarılı giriş sonrası ana sayfaya yönlendir
             return redirect()->intended(route('home', [], false));
         }
 
         return back()->withErrors([
-            'email' => 'Bu kimlik bilgileri kayıtlarımızla eşleşmiyor.',
+        'email' => 'Girdiğiniz bilgileri kontrol edip tekrar deneyiniz.',
         ]);
     }
 

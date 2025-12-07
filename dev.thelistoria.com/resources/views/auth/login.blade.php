@@ -20,8 +20,8 @@
             @endif
 
             <div>
-                <label for="email">E-posta:</label><br>
-                <input id="email" type="email" name="email" required autofocus>
+                <label for="email">Kullanıcı Adı veya E-posta Adresi:</label><br>
+                <input id="email" type="text" name="email" required autofocus>
             </div>
             <br>
 

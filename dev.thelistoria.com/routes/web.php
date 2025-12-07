@@ -1,6 +1,7 @@
 <?php
 
 // TÜM CONTROLLER TANIMLARI EN ÜSTTE OLMALIDIR
+use App\Http\Controllers\ItemController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PListController;
 use App\Http\Controllers\Auth\AuthenticatedSessionController;
@@ -66,5 +67,9 @@ Route::middleware(['auth'])->group(function () {
 
     // Liste öğesini silme işlemi
     Route::delete('/lists/{list}/items/{item}', [PListController::class, 'destroyItem'])->name('lists.items.destroy');
+    
+    // Yeni Merkezi İçerik Ekleme Rotası
+    Route::get('/items/create', [ItemController::class, 'create'])->name('items.create');
+    Route::post('/items', [ItemController::class, 'store'])->name('items.store');
 
 });
