@@ -1,8 +1,0 @@
-[26-Nov-2025 17:05:23 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/ItemController.php:10
-Stack trace:
-#0 {main}
-  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/ItemController.php on line 10
-[26-Nov-2025 17:05:26 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/ItemController.php:10
-Stack trace:
-#0 {main}
-  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/ItemController.php on line 10

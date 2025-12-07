@@ -6,8 +6,6 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
-use App\Models\PList;
-use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class User extends Authenticatable
 {
@@ -21,7 +19,6 @@ class User extends Authenticatable
      */
     protected $fillable = [
         'name',
-        'username',
         'email',
         'password',
     ];
@@ -47,13 +44,5 @@ class User extends Authenticatable
             'email_verified_at' => 'datetime',
             'password' => 'hashed',
         ];
-    }
-    
-    /**
-     * Kullanıcının sahip olduğu tüm listeleri tanımlar.
-     */
-    public function lists(): HasMany
-    {
-        return $this->hasMany(PList::class);
     }
 }

@@ -1,5 +1,0 @@
-[15-Nov-2025 23:14:03 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Route as Route because the name is already in use in /home/storia/public_html/dev.thelistoria.com/routes/web.php on line 9
-[15-Nov-2025 23:17:10 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Route as Route because the name is already in use in /home/storia/public_html/dev.thelistoria.com/routes/web.php on line 9
-[15-Nov-2025 23:17:10 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Route as Route because the name is already in use in /home/storia/public_html/dev.thelistoria.com/routes/web.php on line 9
-[15-Nov-2025 23:19:26 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Route as Route because the name is already in use in /home/storia/public_html/dev.thelistoria.com/routes/web.php on line 9
-[15-Nov-2025 23:19:29 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Route as Route because the name is already in use in /home/storia/public_html/dev.thelistoria.com/routes/web.php on line 9
