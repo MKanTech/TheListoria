@@ -1,0 +1,24 @@
+[13-Dec-2025 00:05:11 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/storia/public_html/dev.thelistoria.com/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Providers/AppServiceProvider.php on line 7
+[13-Dec-2025 00:24:45 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/storia/public_html/dev.thelistoria.com/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Providers/AppServiceProvider.php on line 7
+[13-Dec-2025 01:10:17 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/storia/public_html/dev.thelistoria.com/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Providers/AppServiceProvider.php on line 7
+[13-Dec-2025 01:31:06 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/storia/public_html/dev.thelistoria.com/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Providers/AppServiceProvider.php on line 7
+[13-Dec-2025 01:53:15 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/storia/public_html/dev.thelistoria.com/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Providers/AppServiceProvider.php on line 7
+[13-Dec-2025 02:11:18 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/storia/public_html/dev.thelistoria.com/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Providers/AppServiceProvider.php on line 7

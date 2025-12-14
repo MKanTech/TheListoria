@@ -1,0 +1,72 @@
+[09-Dec-2025 12:14:57 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php on line 7
+[09-Dec-2025 12:20:30 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php on line 7
+[09-Dec-2025 18:01:00 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php on line 7
+[09-Dec-2025 19:14:56 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php on line 7
+[09-Dec-2025 19:37:19 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php on line 7
+[09-Dec-2025 19:42:29 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php on line 7
+[09-Dec-2025 21:04:45 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php on line 7
+[10-Dec-2025 01:27:15 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php on line 7
+[11-Dec-2025 02:05:42 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php on line 7
+[11-Dec-2025 06:29:29 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php on line 7
+[11-Dec-2025 06:48:49 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php on line 7
+[11-Dec-2025 06:57:55 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php on line 7
+[11-Dec-2025 10:27:06 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php on line 7
+[11-Dec-2025 10:27:31 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php on line 7
+[11-Dec-2025 10:32:45 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php on line 7
+[11-Dec-2025 10:48:37 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php on line 7
+[11-Dec-2025 11:03:36 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php on line 7
+[11-Dec-2025 11:07:58 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Unit/ExampleTest.php on line 7

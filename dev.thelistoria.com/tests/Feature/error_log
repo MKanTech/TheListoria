@@ -1,0 +1,48 @@
+[09-Dec-2025 12:15:36 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php on line 8
+[09-Dec-2025 12:21:31 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php on line 8
+[09-Dec-2025 19:37:24 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php on line 8
+[09-Dec-2025 21:04:46 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php on line 8
+[12-Dec-2025 00:25:05 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php on line 8
+[12-Dec-2025 00:26:49 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php on line 8
+[12-Dec-2025 02:47:35 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php on line 8
+[12-Dec-2025 02:51:29 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php on line 8
+[12-Dec-2025 03:06:30 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php on line 8
+[12-Dec-2025 03:16:20 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php on line 8
+[12-Dec-2025 03:19:05 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php on line 8
+[12-Dec-2025 03:22:27 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/Feature/ExampleTest.php on line 8

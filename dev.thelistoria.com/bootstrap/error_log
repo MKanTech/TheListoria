@@ -1,0 +1,20 @@
+[09-Dec-2025 10:59:08 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/storia/public_html/dev.thelistoria.com/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/bootstrap/app.php on line 7
+[09-Dec-2025 15:39:33 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/storia/public_html/dev.thelistoria.com/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/bootstrap/app.php on line 7
+[09-Dec-2025 18:30:18 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/storia/public_html/dev.thelistoria.com/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/bootstrap/app.php on line 7
+[09-Dec-2025 20:04:12 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/storia/public_html/dev.thelistoria.com/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/bootstrap/app.php on line 7
+[14-Dec-2025 01:02:57 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/storia/public_html/dev.thelistoria.com/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/bootstrap/app.php on line 7

@@ -1,0 +1,88 @@
+[09-Dec-2025 12:02:35 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/storia/public_html/dev.thelistoria.com/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/console.php on line 6
+[09-Dec-2025 12:02:45 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/storia/public_html/dev.thelistoria.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/web.php on line 5
+[09-Dec-2025 19:25:26 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/storia/public_html/dev.thelistoria.com/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/console.php on line 6
+[09-Dec-2025 19:25:33 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/storia/public_html/dev.thelistoria.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/web.php on line 5
+[09-Dec-2025 19:46:30 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/storia/public_html/dev.thelistoria.com/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/console.php on line 6
+[09-Dec-2025 19:46:34 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/storia/public_html/dev.thelistoria.com/routes/web.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/web.php on line 5
+[13-Dec-2025 08:38:42 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/storia/public_html/dev.thelistoria.com/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/console.php on line 6
+[13-Dec-2025 08:49:04 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/storia/public_html/dev.thelistoria.com/routes/web.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/web.php on line 9
+[13-Dec-2025 08:59:44 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/storia/public_html/dev.thelistoria.com/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/console.php on line 6
+[13-Dec-2025 09:00:02 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/storia/public_html/dev.thelistoria.com/routes/web.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/web.php on line 9
+[13-Dec-2025 20:07:36 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/storia/public_html/dev.thelistoria.com/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/console.php on line 6
+[13-Dec-2025 20:07:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/storia/public_html/dev.thelistoria.com/routes/web.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/web.php on line 9
+[13-Dec-2025 20:19:49 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/storia/public_html/dev.thelistoria.com/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/console.php on line 6
+[13-Dec-2025 20:21:53 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/storia/public_html/dev.thelistoria.com/routes/web.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/web.php on line 9
+[13-Dec-2025 20:36:44 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/storia/public_html/dev.thelistoria.com/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/console.php on line 6
+[13-Dec-2025 20:39:48 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/storia/public_html/dev.thelistoria.com/routes/web.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/web.php on line 9
+[13-Dec-2025 21:28:02 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/storia/public_html/dev.thelistoria.com/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/console.php on line 6
+[13-Dec-2025 21:28:18 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/storia/public_html/dev.thelistoria.com/routes/web.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/web.php on line 9
+[13-Dec-2025 21:39:44 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/storia/public_html/dev.thelistoria.com/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/console.php on line 6
+[13-Dec-2025 21:42:56 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/storia/public_html/dev.thelistoria.com/routes/web.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/web.php on line 9
+[14-Dec-2025 01:04:01 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/storia/public_html/dev.thelistoria.com/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/console.php on line 6
+[14-Dec-2025 01:04:04 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/storia/public_html/dev.thelistoria.com/routes/web.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/routes/web.php on line 9

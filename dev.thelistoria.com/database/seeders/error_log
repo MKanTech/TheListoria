@@ -1,0 +1,12 @@
+[09-Dec-2025 11:11:40 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/storia/public_html/dev.thelistoria.com/database/seeders/DatabaseSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/seeders/DatabaseSeeder.php on line 9
+[09-Dec-2025 18:42:18 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/storia/public_html/dev.thelistoria.com/database/seeders/DatabaseSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/seeders/DatabaseSeeder.php on line 9
+[09-Dec-2025 20:17:47 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/storia/public_html/dev.thelistoria.com/database/seeders/DatabaseSeeder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/seeders/DatabaseSeeder.php on line 9

@@ -1,0 +1,36 @@
+[09-Dec-2025 11:03:18 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/storia/public_html/dev.thelistoria.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/factories/UserFactory.php on line 12
+[09-Dec-2025 11:12:57 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/storia/public_html/dev.thelistoria.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/factories/UserFactory.php on line 12
+[09-Dec-2025 11:21:20 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/storia/public_html/dev.thelistoria.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/factories/UserFactory.php on line 12
+[09-Dec-2025 18:38:23 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/storia/public_html/dev.thelistoria.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/factories/UserFactory.php on line 12
+[09-Dec-2025 18:50:40 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/storia/public_html/dev.thelistoria.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/factories/UserFactory.php on line 12
+[09-Dec-2025 18:57:07 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/storia/public_html/dev.thelistoria.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/factories/UserFactory.php on line 12
+[09-Dec-2025 20:15:39 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/storia/public_html/dev.thelistoria.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/factories/UserFactory.php on line 12
+[09-Dec-2025 20:26:20 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/storia/public_html/dev.thelistoria.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/factories/UserFactory.php on line 12
+[09-Dec-2025 20:33:51 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/storia/public_html/dev.thelistoria.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/factories/UserFactory.php on line 12

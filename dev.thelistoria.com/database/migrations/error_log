@@ -1,0 +1,120 @@
+[09-Dec-2025 11:00:17 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[09-Dec-2025 11:01:07 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[09-Dec-2025 11:02:13 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[09-Dec-2025 11:30:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[09-Dec-2025 11:30:59 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[09-Dec-2025 11:31:28 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[09-Dec-2025 11:41:54 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[09-Dec-2025 11:42:13 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[09-Dec-2025 11:43:10 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[09-Dec-2025 11:51:31 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[09-Dec-2025 11:51:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[09-Dec-2025 11:52:48 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[09-Dec-2025 18:34:21 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[09-Dec-2025 18:36:13 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[09-Dec-2025 18:37:19 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[09-Dec-2025 19:04:55 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[09-Dec-2025 19:05:03 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[09-Dec-2025 19:05:28 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[09-Dec-2025 19:13:42 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[09-Dec-2025 19:14:02 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[09-Dec-2025 19:15:01 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[09-Dec-2025 20:14:27 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[09-Dec-2025 20:14:33 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[09-Dec-2025 20:14:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[09-Dec-2025 20:41:55 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[09-Dec-2025 20:42:19 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[09-Dec-2025 20:43:24 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[09-Dec-2025 20:51:44 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[09-Dec-2025 20:52:02 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[09-Dec-2025 20:53:00 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7

@@ -1,0 +1,476 @@
+[09-Dec-2025 10:40:36 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php on line 16
+[09-Dec-2025 10:40:37 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/database.php on line 19
+[09-Dec-2025 10:40:39 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/services.php on line 18
+[09-Dec-2025 10:40:43 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/logging.php on line 21
+[09-Dec-2025 10:40:58 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/session.php on line 21
+[09-Dec-2025 10:46:43 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/auth.php on line 17
+[09-Dec-2025 10:47:17 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/mail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/mail.php on line 17
+[09-Dec-2025 10:48:19 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/cache.php on line 18
+[09-Dec-2025 10:49:22 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/queue.php on line 16
+[09-Dec-2025 10:50:27 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/app.php on line 16
+[09-Dec-2025 13:28:37 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/app.php on line 16
+[09-Dec-2025 18:12:33 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php on line 16
+[09-Dec-2025 18:12:34 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/services.php on line 18
+[09-Dec-2025 18:12:35 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/database.php on line 19
+[09-Dec-2025 18:13:19 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/logging.php on line 21
+[09-Dec-2025 18:13:29 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/session.php on line 21
+[09-Dec-2025 18:15:01 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/auth.php on line 17
+[09-Dec-2025 18:15:58 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/mail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/mail.php on line 17
+[09-Dec-2025 18:17:00 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/queue.php on line 16
+[09-Dec-2025 18:18:05 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/cache.php on line 18
+[09-Dec-2025 18:23:10 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/app.php on line 16
+[09-Dec-2025 19:04:01 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/session.php on line 21
+[09-Dec-2025 19:47:04 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php on line 16
+[09-Dec-2025 19:47:05 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/services.php on line 18
+[09-Dec-2025 19:47:08 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/database.php on line 19
+[09-Dec-2025 19:47:17 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/session.php on line 21
+[09-Dec-2025 19:47:42 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/logging.php on line 21
+[09-Dec-2025 19:48:43 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/mail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/mail.php on line 17
+[09-Dec-2025 19:49:45 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/auth.php on line 17
+[09-Dec-2025 19:50:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/queue.php on line 16
+[09-Dec-2025 19:54:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/cache.php on line 18
+[09-Dec-2025 19:56:46 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/app.php on line 16
+[09-Dec-2025 20:29:18 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/services.php on line 18
+[09-Dec-2025 23:04:53 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/queue.php on line 16
+[10-Dec-2025 01:38:03 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/mail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/mail.php on line 17
+[10-Dec-2025 07:02:49 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/logging.php on line 21
+[10-Dec-2025 16:48:31 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php on line 16
+[11-Dec-2025 11:17:33 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/database.php on line 19
+[12-Dec-2025 03:46:03 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/cache.php on line 18
+[13-Dec-2025 08:38:58 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php on line 16
+[13-Dec-2025 08:39:47 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/services.php on line 18
+[13-Dec-2025 08:40:47 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/database.php on line 19
+[13-Dec-2025 08:41:51 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/logging.php on line 21
+[13-Dec-2025 08:42:57 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/session.php on line 21
+[13-Dec-2025 08:43:58 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/mail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/mail.php on line 17
+[13-Dec-2025 08:45:00 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/auth.php on line 17
+[13-Dec-2025 08:46:00 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/queue.php on line 16
+[13-Dec-2025 08:47:03 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/cache.php on line 18
+[13-Dec-2025 08:50:08 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/app.php on line 16
+[13-Dec-2025 09:02:55 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php on line 16
+[13-Dec-2025 09:04:01 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/services.php on line 18
+[13-Dec-2025 09:05:04 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/database.php on line 19
+[13-Dec-2025 09:06:07 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/session.php on line 21
+[13-Dec-2025 09:07:07 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/logging.php on line 21
+[13-Dec-2025 09:08:08 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/auth.php on line 17
+[13-Dec-2025 09:09:11 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/mail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/mail.php on line 17
+[13-Dec-2025 09:10:12 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/queue.php on line 16
+[13-Dec-2025 09:11:18 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/cache.php on line 18
+[13-Dec-2025 09:12:23 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/app.php on line 16
+[13-Dec-2025 09:19:57 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/services.php on line 18
+[13-Dec-2025 09:20:21 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/logging.php on line 21
+[13-Dec-2025 09:21:23 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/session.php on line 21
+[13-Dec-2025 09:22:28 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/mail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/mail.php on line 17
+[13-Dec-2025 09:23:32 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/auth.php on line 17
+[13-Dec-2025 09:24:38 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/database.php on line 19
+[13-Dec-2025 09:25:43 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/cache.php on line 18
+[13-Dec-2025 09:26:49 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/queue.php on line 16
+[13-Dec-2025 09:27:51 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/app.php on line 16
+[13-Dec-2025 09:30:58 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php on line 16
+[13-Dec-2025 20:10:35 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php on line 16
+[13-Dec-2025 20:11:24 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/database.php on line 19
+[13-Dec-2025 20:12:28 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/services.php on line 18
+[13-Dec-2025 20:13:33 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/session.php on line 21
+[13-Dec-2025 20:14:35 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/logging.php on line 21
+[13-Dec-2025 20:15:40 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/auth.php on line 17
+[13-Dec-2025 20:16:43 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/mail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/mail.php on line 17
+[13-Dec-2025 20:17:48 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/queue.php on line 16
+[13-Dec-2025 20:18:49 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/cache.php on line 18
+[13-Dec-2025 20:20:53 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/app.php on line 16
+[13-Dec-2025 20:30:06 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php on line 16
+[13-Dec-2025 20:30:25 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/services.php on line 18
+[13-Dec-2025 20:31:22 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/database.php on line 19
+[13-Dec-2025 20:32:25 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/logging.php on line 21
+[13-Dec-2025 20:33:29 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/session.php on line 21
+[13-Dec-2025 20:34:35 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/mail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/mail.php on line 17
+[13-Dec-2025 20:35:39 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/auth.php on line 17
+[13-Dec-2025 20:37:43 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/cache.php on line 18
+[13-Dec-2025 20:38:47 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/queue.php on line 16
+[13-Dec-2025 20:40:54 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/app.php on line 16
+[13-Dec-2025 21:32:48 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php on line 16
+[13-Dec-2025 21:33:29 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/services.php on line 18
+[13-Dec-2025 21:34:31 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/database.php on line 19
+[13-Dec-2025 21:35:32 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/logging.php on line 21
+[13-Dec-2025 21:36:37 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/session.php on line 21
+[13-Dec-2025 21:37:37 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/mail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/mail.php on line 17
+[13-Dec-2025 21:38:42 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/auth.php on line 17
+[13-Dec-2025 21:40:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/queue.php on line 16
+[13-Dec-2025 21:41:54 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/cache.php on line 18
+[13-Dec-2025 21:44:01 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/app.php on line 16
+[13-Dec-2025 21:53:29 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php on line 16
+[13-Dec-2025 21:54:20 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/services.php on line 18
+[13-Dec-2025 21:55:24 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/database.php on line 19
+[13-Dec-2025 21:56:27 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/logging.php on line 21
+[13-Dec-2025 21:57:27 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/session.php on line 21
+[13-Dec-2025 21:58:33 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/auth.php on line 17
+[13-Dec-2025 21:59:37 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/mail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/mail.php on line 17
+[13-Dec-2025 22:00:37 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/queue.php on line 16
+[13-Dec-2025 22:01:43 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/cache.php on line 18
+[13-Dec-2025 22:02:43 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/app.php on line 16
+[14-Dec-2025 01:03:17 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/app.php on line 16
+[14-Dec-2025 01:03:18 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/auth.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/auth.php on line 17
+[14-Dec-2025 01:03:20 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/cache.php on line 18
+[14-Dec-2025 01:03:22 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/database.php on line 19
+[14-Dec-2025 01:03:25 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/filesystems.php on line 16
+[14-Dec-2025 01:03:26 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/logging.php on line 21
+[14-Dec-2025 01:03:28 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/mail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/mail.php on line 17
+[14-Dec-2025 01:03:29 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/queue.php on line 16
+[14-Dec-2025 01:03:31 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/services.php on line 18
+[14-Dec-2025 01:03:32 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/storia/public_html/dev.thelistoria.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/config/session.php on line 21

@@ -1,0 +1,16 @@
+[09-Dec-2025 12:12:43 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/TestCase.php on line 7
+[09-Dec-2025 19:35:43 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/TestCase.php on line 7
+[09-Dec-2025 21:04:32 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/TestCase.php on line 7
+[14-Dec-2025 01:04:21 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/storia/public_html/dev.thelistoria.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/tests/TestCase.php on line 7

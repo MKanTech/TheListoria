@@ -1,0 +1,160 @@
+[13-Dec-2025 00:04:10 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Comment.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Comment.php on line 4
+[13-Dec-2025 00:06:12 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Like.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Like.php on line 4
+[13-Dec-2025 00:07:12 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/UserList.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/UserList.php on line 8
+[13-Dec-2025 00:09:20 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Approval.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Approval.php on line 4
+[13-Dec-2025 00:10:18 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/User.php on line 11
+[13-Dec-2025 00:11:24 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Post.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Post.php on line 8
+[13-Dec-2025 00:21:36 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Comment.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Comment.php on line 4
+[13-Dec-2025 00:25:48 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Like.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Like.php on line 4
+[13-Dec-2025 00:26:52 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/UserList.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/UserList.php on line 8
+[13-Dec-2025 00:30:04 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Approval.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Approval.php on line 4
+[13-Dec-2025 00:32:10 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Post.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Post.php on line 8
+[13-Dec-2025 00:33:10 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/User.php on line 11
+[13-Dec-2025 01:04:47 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Comment.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Comment.php on line 4
+[13-Dec-2025 01:05:06 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Like.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Like.php on line 4
+[13-Dec-2025 01:06:05 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/UserList.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/UserList.php on line 8
+[13-Dec-2025 01:08:11 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Approval.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Approval.php on line 4
+[13-Dec-2025 01:09:14 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Post.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Post.php on line 8
+[13-Dec-2025 01:11:20 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/User.php on line 11
+[13-Dec-2025 01:30:11 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Comment.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Comment.php on line 4
+[13-Dec-2025 01:33:11 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Like.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Like.php on line 4
+[13-Dec-2025 01:34:13 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/UserList.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/UserList.php on line 8
+[13-Dec-2025 01:36:19 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Approval.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Approval.php on line 4
+[13-Dec-2025 01:38:22 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/User.php on line 11
+[13-Dec-2025 01:39:26 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Post.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Post.php on line 8
+[13-Dec-2025 01:50:01 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Comment.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Comment.php on line 4
+[13-Dec-2025 01:51:07 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Like.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Like.php on line 4
+[13-Dec-2025 01:52:10 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/UserList.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/UserList.php on line 8
+[13-Dec-2025 01:54:16 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Approval.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Approval.php on line 4
+[13-Dec-2025 01:55:20 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Post.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Post.php on line 8
+[13-Dec-2025 01:56:25 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/User.php on line 11
+[13-Dec-2025 02:05:44 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Comment.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Comment.php on line 4
+[13-Dec-2025 02:06:03 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Like.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Like.php on line 4
+[13-Dec-2025 02:07:02 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/UserList.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/UserList.php on line 8
+[13-Dec-2025 02:09:08 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Approval.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Approval.php on line 4
+[13-Dec-2025 02:10:12 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Post.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Post.php on line 8
+[13-Dec-2025 02:12:23 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/User.php on line 11
+[14-Dec-2025 02:53:31 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Comment.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Comment.php on line 4
+[14-Dec-2025 02:54:35 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Like.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Like.php on line 4
+[14-Dec-2025 02:55:40 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/UserList.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/UserList.php on line 8
+[14-Dec-2025 02:56:40 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/storia/public_html/dev.thelistoria.com/app/Models/Approval.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Models/Approval.php on line 4

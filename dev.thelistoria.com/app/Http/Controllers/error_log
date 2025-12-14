@@ -1,0 +1,140 @@
+[13-Dec-2025 00:17:59 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserListController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserListController.php on line 10
+[13-Dec-2025 00:18:29 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/PostController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/PostController.php on line 11
+[13-Dec-2025 00:37:24 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserController.php on line 9
+[13-Dec-2025 00:38:27 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/AuthController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/AuthController.php on line 12
+[13-Dec-2025 00:54:13 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/Controller.php on line 9
+[13-Dec-2025 01:07:08 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserListController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserListController.php on line 10
+[13-Dec-2025 01:12:26 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/PostController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/PostController.php on line 11
+[13-Dec-2025 01:13:31 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/AuthController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/AuthController.php on line 12
+[13-Dec-2025 01:14:33 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserController.php on line 9
+[13-Dec-2025 01:15:35 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/Controller.php on line 9
+[13-Dec-2025 01:27:39 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserListController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserListController.php on line 10
+[13-Dec-2025 01:28:40 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/PostController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/PostController.php on line 11
+[13-Dec-2025 01:29:43 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserController.php on line 9
+[13-Dec-2025 01:30:47 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/AuthController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/AuthController.php on line 12
+[13-Dec-2025 01:31:47 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/Controller.php on line 9
+[13-Dec-2025 01:45:19 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserListController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserListController.php on line 10
+[13-Dec-2025 01:45:51 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/PostController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/PostController.php on line 11
+[13-Dec-2025 01:46:57 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/AuthController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/AuthController.php on line 12
+[13-Dec-2025 01:47:59 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserController.php on line 9
+[13-Dec-2025 01:48:59 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/Controller.php on line 9
+[13-Dec-2025 02:08:08 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserListController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserListController.php on line 10
+[13-Dec-2025 02:13:23 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/PostController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/PostController.php on line 11
+[13-Dec-2025 02:14:28 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/AuthController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/AuthController.php on line 12
+[13-Dec-2025 02:15:28 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserController.php on line 9
+[13-Dec-2025 02:16:32 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/Controller.php on line 9
+[13-Dec-2025 02:26:10 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserListController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserListController.php on line 10
+[13-Dec-2025 02:27:06 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/PostController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/PostController.php on line 11
+[13-Dec-2025 02:28:08 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/AuthController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/AuthController.php on line 12
+[13-Dec-2025 02:29:11 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserController.php on line 9
+[13-Dec-2025 02:45:23 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/Controller.php on line 9
+[13-Dec-2025 11:38:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserListController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserListController.php on line 10
+[13-Dec-2025 11:39:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/PostController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/PostController.php on line 11
+[13-Dec-2025 11:40:51 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/AuthController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/AuthController.php on line 12
+[13-Dec-2025 11:41:53 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/UserController.php on line 9
+[13-Dec-2025 11:46:07 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/storia/public_html/dev.thelistoria.com/app/Http/Controllers/Controller.php on line 9
